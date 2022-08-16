@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"title": "Beats Studio 3",
+		"weight": 250,
+		"price": 5000,
+		"imgSrc": "BeatsStudio3.png"
+	},
+	{
+		"id": 2,
+		"title": "Hoco W11",
+		"weight": 280,
+		"price": 3400,
+		"imgSrc": "HOCOW11.png"
+	},
+	{
+		"id": 3,
+		"title": "Jbl E45BT",
+		"weight": 300,
+		"price": 4000,
+		"imgSrc": "JBLE45BT.png"
+	},
+	{
+		"id": 4,
+		"title": "Jbl T450BT",
+		"weight": 320,
+		"price": 3500,
+		"imgSrc": "JBLT450BT.png"
+	}
+]
